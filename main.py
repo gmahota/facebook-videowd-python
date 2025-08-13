@@ -1,7 +1,7 @@
 import yt_dlp
 
 # URL do vídeo no Facebook
-url = 'https://www.facebook.com/watch?v=XXXXX'
+url = 'https://www.youtube.com/watch?v=LgmL4TQCNtI'
 
 # Opções de download para limitar o tamanho do vídeo a aproximadamente 1 MB
 ydl_opts = {
